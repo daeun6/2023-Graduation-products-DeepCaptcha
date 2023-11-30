@@ -12,7 +12,7 @@ PBL Team SWAMPS
 
 2.2 내용 기반 탐지 : 피싱대화/일반대화 음성을 STT로 변환 후 벡터화하여 구성한 데이터 셋을 LSTM 모델에 학습 시켜 이진 분류를 통해 보이스피싱 대화 여부 판별
 
-### brochure
+### Brochure
 
 ![b4가 낫다  (1)](https://github.com/daeun6/DeepCaptcha/assets/81478444/961239cf-5431-4c1d-9a86-c45bf5b7a0ae)
 
