@@ -27,4 +27,4 @@ PBL Team SWAMPS
 
 |[송다은](https://github.com/daeun6)|[이나영]()|[김지원]()|
 | --- | --- | --- |
-|<img width="100" src="https://github.com/GDSC-SWU/2023-AI-ML-study/assets/81478444/21400679-dcc3-4731-9638-d8f717e0bc84"/>|<img width="100" src="https://github.com/daeun6/DeepCaptcha/assets/81478444/f1c138c1-8e9c-4f0c-aea1-27743fa18983"/>|<img width="100" src=""/>|
+|<img width="100" src="https://github.com/GDSC-SWU/2023-AI-ML-study/assets/81478444/21400679-dcc3-4731-9638-d8f717e0bc84"/>|<img width="100" src="https://github.com/daeun6/DeepCaptcha/assets/81478444/f1c138c1-8e9c-4f0c-aea1-27743fa18983"/>|<img width="100" src="https://github.com/daeun6/DeepCaptcha/assets/81478444/80e07910-6790-4f58-bf53-0960134e1777"/>|
