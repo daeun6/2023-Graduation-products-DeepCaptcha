@@ -17,7 +17,8 @@ PBL Team SWAMPS
 
 ![b4가 낫다  (1)](https://github.com/daeun6/DeepCaptcha/assets/81478444/961239cf-5431-4c1d-9a86-c45bf5b7a0ae)
 
-![학부생  (5)](https://github.com/daeun6/DeepCaptcha/assets/81478444/e4c7a236-7ee4-41e5-92bf-5fc856e691c6)
+![학부생  (7)](https://github.com/daeun6/DeepCaptcha/assets/81478444/d1e731b4-0df2-4634-a32c-d1cfe3abe8d0)
+
 
 
 
