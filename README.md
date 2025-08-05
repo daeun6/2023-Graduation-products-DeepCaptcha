@@ -15,7 +15,7 @@ PBL Team SWAMPS
 
 ### 성과
 
-- IEEE ACCESS 저널 Accept(SCI 논문) -> https://ieeexplore.ieee.org/abstract/document/10769438
+- **IEEE ACCESS 저널 Accept(SCI 논문)** -> https://ieeexplore.ieee.org/abstract/document/10769438
 - 2023 졸업 프로젝트 평가회 **Grand Prize (대상 수상)**
 - 개인정보 혁신인재 양성 분야 PBL 프로젝트 보고회 **Grand Prize (대상 수상)**
 
