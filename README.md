@@ -20,7 +20,8 @@ PBL Team SWAMPS
 - 개인정보 혁신인재 양성 분야 PBL 프로젝트 보고회 **Grand Prize (대상 수상)**
 
 ### Brochure
-<img width="4608" height="3456" alt="_  " src="https://github.com/user-attachments/assets/d1ac521b-758e-4d52-86ba-6d6944f9950d" />
+<img width="4608" height="3456" alt="_    (1)" src="https://github.com/user-attachments/assets/8c93e874-2dd3-4148-92c2-9b11d9ef0074" />
+
 
 
 
